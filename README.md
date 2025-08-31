@@ -9,4 +9,4 @@ Lagos, Nigeria
 # Skills
 First language: English
 
-Programming Languages: HTML5, PHP, CSS3, JavaScript, Java, Python
+Programming Languages: Django, ReactJS, HTML5, PHP, CSS3, JavaScript, Java, Python
