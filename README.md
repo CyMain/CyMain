@@ -1,14 +1,29 @@
-# Cyrus
-Bs.c Student
-Covenant University
-Lagos, Nigeria
+# Welcome ✨️
+I'm Cyrus. An upcoming software developer interested in Web, App, and Game Development.
 
-# Education
-2022.09 - Present Computer Science Department of CIS, Covenant University
+# Current Project: Mobile To-do List App 
+I'm currently working on making my first mobile app. A simple personal to-do list that I can open anytime on my tablet.
+Made with React Native and Expo.
 
-# Skills
-First language: English
+# Programming Languages
+In order of most confidence.
+Javascript (My main)
+Python
+Java
+C
+C++
+C#
 
-Programming Languages: HTML5, CSS3, JavaScript, Java, Python
+# Frameworks
+Experienced in:
+React
+React native
+NodeJS
+ExpressJs
+Flask
+Django
 
-Frameworks: ReactJS, ExpressJS, NodeJS, Flask, Django
+# About Me
+In my Penultimate year in university but willing to work on projects! I can be reached on Discord, LinkedIn and X.
+
+## Xiao~
