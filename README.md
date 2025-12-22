@@ -7,21 +7,21 @@ Made with React Native and Expo.
 
 # Programming Languages
 In order of most confidence.
-Javascript (My main)
-Python
-Java
-C
-C++
-C#
++ Javascript (My main)
++ Python
++ Java
++ C
++ C++
++ C#
 
 # Frameworks
 Experienced in:
-React
-React native
-NodeJS
-ExpressJs
-Flask
-Django
++ React
++ React native
++ NodeJS
++ ExpressJs
++ Flask
++ Django
 
 # About Me
 In my Penultimate year in university but willing to work on projects! I can be reached on Discord, LinkedIn and X.
