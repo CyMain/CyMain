@@ -1,14 +1,10 @@
 # Welcome ✨️
 I'm Cyrus. An upcoming software developer interested in Web, App, and Game Development.
 
-# Current Project: Mobile To-do List App 
-I'm currently working on making my first mobile app. A simple personal to-do list that I can open anytime on my tablet.
-Made with React Native and Expo.
-
 # Programming Languages
 In order of most confidence.
-+ Javascript (My main)
-+ Python
++ Python (My main)
++ Javascript
 + Java
 + C
 + C++
@@ -18,6 +14,7 @@ In order of most confidence.
 Experienced in:
 + React
 + React native
++ TailwindCSS
 + NodeJS
 + ExpressJs
 + Flask
