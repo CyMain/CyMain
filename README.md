@@ -21,6 +21,6 @@ Experienced in:
 + Django
 
 # About Me
-In my Penultimate year in university but willing to work on projects! I can be reached on Discord, LinkedIn and X.
+I'm a fresh graduate willing to work on projects! I can be reached through Email, LinkedIn and X.
 
 ## Xiao~
