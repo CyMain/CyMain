@@ -2,13 +2,14 @@
 I'm Cyrus. An upcoming software developer interested in Web, App, and Game Development.
 
 # Programming Languages
-In order of most confidence.
+Experienced in:
 + Python (My main)
 + Javascript
 + Java
 + C
 + C++
 + C#
++ GDScript
 
 # Frameworks
 Experienced in:
