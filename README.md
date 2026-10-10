@@ -22,6 +22,6 @@ Experienced in:
 + Django
 
 # About Me
-I'm a fresh graduate willing to work on projects! I can be reached through Email, LinkedIn and X.
+I'm a fresh graduate willing to work on projects! You can reach me through Email, LinkedIn and X.
 
 ## Xiao~
